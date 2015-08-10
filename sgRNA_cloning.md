@@ -22,7 +22,7 @@ It is used to clone a pair of compatible oligos into sgRNA(MS2) cloning backbone
 
 ### Oligo anneal
 
-1. Mix the following components in a PCR tube:
+* 1. Mix the following components in a PCR tube:
 
 | **Component**        | **Amount (ul)** |
 |----------------------|-----------------|
@@ -33,7 +33,7 @@ It is used to clone a pair of compatible oligos into sgRNA(MS2) cloning backbone
 | H2O                  | 6.5             |
 | **Total**            | **10**          |
 
-2. Anneal oligos in a thermocycler with the following conditions:
+* 2. Anneal oligos in a thermocycler with the following conditions:
 
 | Temperature (C) | Time (min) |
 |-----------------|------------|
@@ -42,8 +42,8 @@ It is used to clone a pair of compatible oligos into sgRNA(MS2) cloning backbone
 
 Ramp down to 25C.
 
-3. Dilute the annealing reaction by adding 90 ul of PCR clean H2O
-4. Mix the following components for the Golden Gate reaction:
+* Dilute the annealing reaction by adding 90 ul of PCR clean H2O
+* Mix the following components for the Golden Gate reaction:
 
 | **Component**                          | **Amount (ul)** |
 |----------------------------------------|-----------------|
@@ -56,7 +56,7 @@ Ramp down to 25C.
 | H2O                                    | 9.25            |
 | **Total**                              | **25**          |
 
-5. Run the following program on a thermocycler:
+* Run the following program on a thermocycler:
 
 | Temperature (C) | Time (min) |
 |-----------------|------------|
@@ -66,16 +66,3 @@ Ramp down to 25C.
 Repeat for 15 cycles total
 6. Transform 2 ul of Golden Gate reaction into chemically competent DH5α cells. 
 7. Plate on Ampicillin plates. Grow at 37°C overnight. 2-3 colonies per sgRNA should be sufficient.
-
-
-
-| **Component**                          | **Amount (ul)** |
-|----------------------------------------|-----------------|
-| T7 ligase                              | 0.125           |
-| 2X T7 ligase buffer                    | 12.5            |
-| BSA                                    | 0.125           |
-| BbsI restriction enzyme                | 1               |
-| Diluted anneal reaction                | 1               |
-| sgRNA(MS2) cloning backbone (25 ng/ul) | 1               |
-| H2O                                    | 9.25            |
-| **Total**                              | **25**          |
