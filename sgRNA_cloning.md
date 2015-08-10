@@ -67,3 +67,15 @@ Repeat for 15 cycles total
 6. Transform 2 ul of Golden Gate reaction into chemically competent DH5α cells. 
 7. Plate on Ampicillin plates. Grow at 37°C overnight. 2-3 colonies per sgRNA should be sufficient.
 
+
+
+| **Component**                          | **Amount (ul)** |
+|----------------------------------------|-----------------|
+| T7 ligase                              | 0.125           |
+| 2X T7 ligase buffer                    | 12.5            |
+| BSA                                    | 0.125           |
+| BbsI restriction enzyme                | 1               |
+| Diluted anneal reaction                | 1               |
+| sgRNA(MS2) cloning backbone (25 ng/ul) | 1               |
+| H2O                                    | 9.25            |
+| **Total**                              | **25**          |
