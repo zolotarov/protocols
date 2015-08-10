@@ -42,8 +42,8 @@ It is used to clone a pair of compatible oligos into sgRNA(MS2) cloning backbone
 
 Ramp down to 25C.
 
-* Dilute the annealing reaction by adding 90 ul of PCR clean H2O
-* Mix the following components for the Golden Gate reaction:
+* 3. Dilute the annealing reaction by adding 90 ul of PCR clean H2O
+* 4. Mix the following components for the Golden Gate reaction:
 
 | **Component**                          | **Amount (ul)** |
 |----------------------------------------|-----------------|
@@ -56,13 +56,14 @@ Ramp down to 25C.
 | H2O                                    | 9.25            |
 | **Total**                              | **25**          |
 
-* Run the following program on a thermocycler:
+* 5. Run the following program on a thermocycler:
 
 | Temperature (C) | Time (min) |
 |-----------------|------------|
 | 37              | 5          |
 | 20              | 5          |
 
-Repeat for 15 cycles total
-6. Transform 2 ul of Golden Gate reaction into chemically competent DH5α cells. 
-7. Plate on Ampicillin plates. Grow at 37°C overnight. 2-3 colonies per sgRNA should be sufficient.
+_Repeat for 15 cycles total_
+
+* 6. Transform 2 ul of Golden Gate reaction into chemically competent DH5α cells. 
+* 7. Plate on Ampicillin plates. Grow at 37°C overnight. 2-3 colonies per sgRNA should be sufficient.
