@@ -1,9 +1,9 @@
-# Heat shock transformation of chemnically competent cells
+# Heat shock transformation of chemically competent cells
 
 ## Materials
 
 * LB ampicillin (50 ug/ml) plates a 37C
-* Chemically competent cells DH5a or Stbl3 for lentivirus
+* Chemically competent cells (DH5α or Stbl3 for lentivirus)
 
 ## Procedure
 
