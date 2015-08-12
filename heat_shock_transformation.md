@@ -9,7 +9,7 @@
 
 1. Thaw cells on ice for 15 minutes
 2. Add 10µL of vector DNA
-3.Incubate on ice for 30 minutes
+3. Incubate on ice for 30 minutes
 4. Heat shock at 42°C for 45 seconds on a thermomixer
 5. Place on ice for 2 minutes
 6. Add 250µL LB
