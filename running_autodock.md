@@ -192,7 +192,7 @@ autodock_vina_1_1_2_mac/bin/vina --receptor 4iys.pdbqt\
 
 # Running Vina on multiple ligands
 
-Convert MOL2 files to PDBQT
+Convert MOL2 files to PDBQT (python script):
 
 ```python
 import subprocess
@@ -208,7 +208,7 @@ for line in files:
     subprocess.call(["/Library/MGLTools/1.5.6/bin/python", "/Library/MGLTools/1.5.6/MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py", "-l", pdb_file])
 ```
 
-Run Vina:
+Run Vina (shell command):
 
 ```bash
 for line in `ls *.pdbqt`; 
@@ -218,7 +218,7 @@ do echo $line; ~/autodock_vina_1_1_2_mac/bin/vina\
 done
 ```
 
-Get the lowest energy per ligand:
+Get the lowest energy per ligand (python script):
 
 ```python
 import subprocess
