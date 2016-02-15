@@ -3,7 +3,7 @@
 **Note: Use DNase- and RNase-free microcentrifuge tubes and tips**   
 **TRIzol can be disposed in phenol/chloroform waste container**
 
-* Place a bottle containing 75% ethanol at -20°C.* 
+*Place a bottle containing 75% ethanol at -20°C.* 
 
 
 ## Homogenization: 
@@ -29,7 +29,7 @@
 
 ## RNA precipitation: 
 
-2.	Transfer the aqueous phase (upper) to a new microcentrifuge tube.
+2.	 Transfer the aqueous phase (upper) to a new microcentrifuge tube.
 3.	 Add 500 μl of isopropanol per mL of TriZOL used. Vortex to mix.
 4.	 Incubate at RT for 10 minutes.
 5.	 Centrifuge at 12,000 g at 4°C for 10 minutes.
