@@ -4,7 +4,7 @@
 
 1. Make a master mix (number of samples + 2) of the following components:
 
-	1 μl random primers  
+	1 μl random primers (hexamers) (50 ng/ml)
 	1 μl 10 mM dNTP
 
 2. In a 1.5 ml microcentrifuge tube, add 1 μg of total RNA and make up to 12 μl with DNase- and RNase-free water
