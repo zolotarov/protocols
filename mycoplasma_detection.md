@@ -19,4 +19,4 @@
 
 * Run the samples on the thermocycler: 94 °C for 2 min; 30 cycles at 94 °C for 30 sec, 60 °C for 30 sec and 72 °C for 40 sec; 72 °C for 5 min and hold at 4 °C until the samples are removed.
 
-* Run 10 μL of sample on 1% agarose gel for 1 hour at 120 V.
+* Run the samples on 1% agarose gel for 1 hour at 120 V.
