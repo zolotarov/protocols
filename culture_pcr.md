@@ -3,7 +3,7 @@
 1. Aliquot 2 ul of bacteria culture in PCR tubes and lyse in a thermocycler at 99 °C for 15 minutes.
 2. Prepare the PCR master mix during lysis:
 
-Master mix for 1 reaction:
+Master mix for 1 reaction (23 ul total):
 
 | Reagent        | Volume (ul) |
 | -------------- | ----------- |
@@ -11,7 +11,7 @@ Master mix for 1 reaction:
 | Buffer         | 2.5         |
 | dNTPs          | 0.5         |
 | Forward primer | 1.25        |
-| Reverse primer | 1.24        |
+| Reverse primer | 1.25        |
 | Water          | 17.25       |
 
 3. If running a PCR to check for sgRNA, use the reverse oligo and U6 forward primer
