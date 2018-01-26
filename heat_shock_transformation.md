@@ -15,6 +15,6 @@
 6. Add 250 µL LB
 7. Incubate at 37 °C for 1H on a thermomixer at 1000 rpm
 8. Plate 50µL on LB ampicillin plates
-9. Centrifuge at 13000 rpm, discard supernatant,
+9. Centrifuge at 8000 rpm for 30 seconds, discard supernatant
 10. Resuspend in 50 µL LB and plate
 11. Incubate at 37 °C overnight

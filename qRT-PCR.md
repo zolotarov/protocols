@@ -1,4 +1,4 @@
-# qRT-PCR
+# qRT-PCR (qPCR)
 
 **Do this experiment on ice**
 
@@ -20,4 +20,4 @@
 *Notes*:
 - Make sure you use filter tips for this technique.
 - You should make at least three replicates of each sample.
-- The SYBR green mix is light sensitive and is stored at -80°C. Once thawed, it should be kept at  4°C.
+- The SYBR green mix is light sensitive and is stored at -20°C. Once thawed, it should be kept at  4°C.

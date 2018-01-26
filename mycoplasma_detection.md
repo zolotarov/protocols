@@ -14,6 +14,8 @@
 | DFS-Taq (blue cap)        |     0.2     |  
 | **Total**                 |    **17**   |  
 
+[Google spreadsheet](https://docs.google.com/spreadsheets/d/1jdnddRjDDkRX-s1tuOhnnISZu4FgUoKPGzKgbiAzBT0/edit?usp=sharing)
+
 * Resuspend the StrataClean resin by vortexing until no pellet remains (about 30 seconds). Add 5 μL of StrataClean resin to the boiled supernatant. Mix the resin and supernatant by gently flicking the tube.
 * Spin down the sample in a tabletop centrifuge for 5-10 seconds to pellet the resin. Use 3 μL of the supernatant for PCR. Do not disturb the resin pellet!
 

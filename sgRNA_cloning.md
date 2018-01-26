@@ -13,7 +13,7 @@ It is used to clone a pair of compatible oligos into sgRNA(MS2) cloning backbone
 * T4 PNK (NEB)
 * 10X T4 ligase buffer (NEB)
 * T7 ligase (NEB)
-* 2X T7 ligase buffer (NEB)
+* 2X T7 ligase buffer (NEB) *Can use 5X Quick Ligation Buffer from NEB, they are the same at 1X*
 * BSA (20 mg/ml) (NEB)
 * BpiI restriction enzyme (**Fermentas!** Note: Replaces BbsI) 
 * sgRNA(MS2) cloning backbone vector (addgene #61424)
@@ -49,7 +49,7 @@ It is used to clone a pair of compatible oligos into sgRNA(MS2) cloning backbone
 	|----------------------------------------|-----------------|
 	| T7 ligase                              | 0.125           |
 	| 2X T7 ligase buffer                    | 12.5            |
-	| BSA                                    | 0.125           |
+	| BSA (20 mg/ml)                         | 0.125           |
 	| BbsI restriction enzyme                | 1               |
 	| Diluted anneal reaction                | 1               |
 	| sgRNA(MS2) cloning backbone (25 ng/ul) | 1               |
